@@ -4,13 +4,8 @@ using System;
 
 namespace Sintaxis_1
 { 
-    /*
-    Requerimiento 1: Valor: 10 Colocar en el Log fecha y hora de analisis
-    Requerimiento 2: Valor: 10 Indentar la matriz de trancision 
-    Requerimiento 3: Valor: 40 Agregar el operador de flujo de salida >>
-    Requerimiento 4: Valor: 40 Agregar el operador de flujo de entrada <<
-    
-    */
+
+   
     
     public class Lexico:Token 
     {
